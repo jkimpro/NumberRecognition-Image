@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\김준혁\project\numberrecognition-image\main.cpp(359): warning C4101: 'lastPoint' :참조되지 않은 지역 변수입니다.
+c:\users\김준혁\project\numberrecognition-image\main.cpp(358): warning C4101: 'firstPoint' :참조되지 않은 지역 변수입니다.
+  Module1.vcxproj -> C:\Users\김준혁\Project\NumberRecognition-Image\Debug\Module1.exe
+  Module1.vcxproj -> C:\Users\김준혁\Project\NumberRecognition-Image\Debug\Module1.pdb (Full PDB)

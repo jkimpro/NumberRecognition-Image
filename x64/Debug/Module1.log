@@ -1,0 +1,10 @@
+﻿  main.cpp
+main.obj : error LNK2019: cvReleaseImage 외부 기호(참조 위치: main 함수)에서 확인하지 못했습니다.
+main.obj : error LNK2019: cvShowImage 외부 기호(참조 위치: main 함수)에서 확인하지 못했습니다.
+main.obj : error LNK2019: cvDestroyWindow 외부 기호(참조 위치: main 함수)에서 확인하지 못했습니다.
+main.obj : error LNK2019: cvLoadImage 외부 기호(참조 위치: main 함수)에서 확인하지 못했습니다.
+main.obj : error LNK2019: cvWaitKey 외부 기호(참조 위치: main 함수)에서 확인하지 못했습니다.
+C:\OpenCV-2.3.0\lib\opencv_highgui230.lib : warning LNK4272: 'X86' 라이브러리 컴퓨터 종류가 'x64' 대상 컴퓨터 종류와 충돌합니다.
+C:\OpenCV-2.3.0\lib\opencv_imgproc230.lib : warning LNK4272: 'X86' 라이브러리 컴퓨터 종류가 'x64' 대상 컴퓨터 종류와 충돌합니다.
+C:\OpenCV-2.3.0\lib\opencv_core230.lib : warning LNK4272: 'X86' 라이브러리 컴퓨터 종류가 'x64' 대상 컴퓨터 종류와 충돌합니다.
+c:\users\김준혁\documents\visual studio 2015\Projects\Module1\x64\Debug\Module1.exe : fatal error LNK1120: 5개의 확인할 수 없는 외부 참조입니다.
